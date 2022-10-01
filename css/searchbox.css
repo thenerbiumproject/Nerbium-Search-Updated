@@ -14,6 +14,8 @@ form.gsc-search-box,table.gsc-search-box
     padding:0px 4px 0px 6px !important;
 }
 
+.
+
 #gsc-iw-id1
 {
         height: auto !important;
@@ -35,6 +37,9 @@ form.gsc-search-box,table.gsc-search-box
     text-indent:0px !important;
 }
 
+.i {
+display: none;
+}
 .gsib_b
 {
     display:none;
